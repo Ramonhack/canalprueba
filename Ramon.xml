@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal HBO">
+    <display-name lang="es">Canal HBO</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210418005500 -0300" stop="20210418025000 -0300" channel="Canal HBO">
+    <title lang="es">Historias de Miedo Para Contar en la Oscuridad</title>
+  </programme>
+  <programme start="20210418025000 -0300" stop="20210418045500 -0300" channel="Canal HBO">
+    <title lang="es">1917</title>
+  </programme>
+  <programme start="20210418045500 -0300" stop="20210418070000 -0300" channel="Canal HBO">
+    <title lang="es">Invasión del Mundo: Batalla - Los Ángeles</title>
+  </programme>
+  <programme start="20210418070000 -0300" stop="20210418085000 -0300" channel="Canal HBO">
+    <title lang="es">Los pitufos</title>
+  </programme>
+  <programme start="20210418085000 -0300" stop="20210418102500 -0300" channel="Canal HBO">
+    <title lang="es">La Vida Secreta de tus Mascotas 2</title>
+  </programme>
+  <programme start="20210418102500 -0300" stop="20210418121500 -0300" channel="Canal HBO">
+    <title lang="es">Dolittle</title>
+  </programme>
+  <programme start="20210418121500 -0300" stop="20210418143500 -0300" channel="Canal HBO">
+    <title lang="es">Rápidos y Furiosos: Hobbs &amp; Shaw</title>
+  </programme>
+  <programme start="20210418143500 -0300" stop="20210418161000 -0300" channel="Canal HBO">
+    <title lang="es">La Cacería (2020)</title>
+  </programme>
+  <programme start="20210418161000 -0300" stop="20210418185000 -0300" channel="Canal HBO">
+    <title lang="es">Doctor Sueño</title>
+  </programme>
+  <programme start="20210418185000 -0300" stop="20210418210000 -0300" channel="Canal HBO">
+    <title lang="es">El Hombre Invisible (2020)</title>
+  </programme>
+  <programme start="20210418210000 -0300" stop="20210418220000 -0300" channel="Canal HBO">
+    <title lang="es">The Nevers</title>
+  </programme>
+  <programme start="20210418220000 -0300" stop="20210418230000 -0300" channel="Canal HBO">
+    <title lang="es">The Nevers</title>
+  </programme>
+  <programme start="20210418230000 -0300" stop="20210419000000 -0300" channel="Canal HBO">
+    <title lang="es">Mare of Easttown</title>
+  </programme>
+  <programme start="20210419000000 -0300" stop="20210419010000 -0300" channel="Canal HBO">
+    <title lang="es">The Nevers</title>
+  </programme>
+  <programme start="20210419010000 -0300" stop="20210419020000 -0300" channel="Canal HBO">
+    <title lang="es">Mare of Easttown</title>
+  </programme>
+  <programme start="20210419020000 -0300" stop="20210419033500 -0300" channel="Canal HBO">
+    <title lang="es">La Cacería (2020)</title>
+  </programme>
+  <programme start="20210419033500 -0300" stop="20210419061500 -0300" channel="Canal HBO">
+    <title lang="es">Los Miserables – El Fenómeno Musical</title>
+  </programme>
+  <programme start="20210419061500 -0300" stop="20210419080000 -0300" channel="Canal HBO">
+    <title lang="es">Crimen a contrarreloj</title>
+  </programme>
+  <programme start="20210419080000 -0300" stop="20210419105500 -0300" channel="Canal HBO">
+    <title lang="es">IT Capítulo Dos</title>
+  </programme>
+  <programme start="20210419105500 -0300" stop="20210419130000 -0300" channel="Canal HBO">
+    <title lang="es">Yesterday (2019)</title>
+  </programme>
+  <programme start="20210419130000 -0300" stop="20210419143000 -0300" channel="Canal HBO">
+    <title lang="es">La Vida Secreta de tus Mascotas 2</title>
+  </programme>
+  <programme start="20210419143000 -0300" stop="20210419163000 -0300" channel="Canal HBO">
+    <title lang="es">Música, glamour y fama</title>
+  </programme>
+  <programme start="20210419163000 -0300" stop="20210419182500 -0300" channel="Canal HBO">
+    <title lang="es">Secretos de Estado</title>
+  </programme>
+  <programme start="20210419182500 -0300" stop="20210419212000 -0300" channel="Canal HBO">
+    <title lang="es">IT Capítulo Dos</title>
+  </programme>
+  <programme start="20210419212000 -0300" stop="20210419230000 -0300" channel="Canal HBO">
+    <title lang="es">La Cacería (2020)</title>
+  </programme>
+  <programme start="20210419230000 -0300" stop="20210420000000 -0300" channel="Canal HBO">
+    <title lang="es">El día de mañana</title>
+  </programme>
+  <programme start="20210420000000 -0300" stop="20210420003500 -0300" channel="Canal HBO">
+    <title lang="es">Last Week Tonight With John Oliver</title>
+  </programme>
+  <programme start="20210420003500 -0300" stop="20210420013500 -0300" channel="Canal HBO">
+    <title lang="es">Mare of Easttown</title>
+  </programme>
+  <programme start="20210420013500 -0300" stop="20210420023500 -0300" channel="Canal HBO">
+    <title lang="es">El día de mañana</title>
+  </programme>
+  <programme start="20210420023500 -0300" stop="20210420044100 -0300" channel="Canal HBO">
+    <title lang="es">Yesterday (2019)</title>
+  </programme>
+  <programme start="20210420044100 -0300" stop="20210420065500 -0300" channel="Canal HBO">
+    <title lang="es">Epidemia</title>
+  </programme>
+  <programme start="20210420065500 -0300" stop="20210420083800 -0300" channel="Canal HBO">
+    <title lang="es">Honey boy Un niño encantador</title>
+  </programme>
+  <programme start="20210420083800 -0300" stop="20210420103500 -0300" channel="Canal HBO">
+    <title lang="es">La Isla de la Fantasía</title>
+  </programme>
+  <programme start="20210420103500 -0300" stop="20210420130000 -0300" channel="Canal HBO">
+    <title lang="es">El sorprendente hombre araña</title>
+  </programme>
+  <programme start="20210420130000 -0300" stop="20210420145500 -0300" channel="Canal HBO">
+    <title lang="es">Fuera de la ley</title>
+  </programme>
+  <programme start="20210420145500 -0300" stop="20210420155500 -0300" channel="Canal HBO">
+    <title lang="es">Mare of Easttown</title>
+  </programme>
+  <programme start="20210420155500 -0300" stop="20210420165500 -0300" channel="Canal HBO">
+    <title lang="es">The Nevers</title>
+  </programme>
+  <programme start="20210420165500 -0300" stop="20210420190000 -0300" channel="Canal HBO">
+    <title lang="es">Invasión del Mundo: Batalla - Los Ángeles</title>
+  </programme>
+  <programme start="20210420190000 -0300" stop="20210420210500 -0300" channel="Canal HBO">
+    <title lang="es">1917</title>
+  </programme>
+  <programme start="20210420210500 -0300" stop="20210420230000 -0300" channel="Canal HBO">
+    <title lang="es">La Isla de la Fantasía</title>
+  </programme>
+  <programme start="20210420230000 -0300" stop="20210421005500 -0300" channel="Canal HBO">
+    <title lang="es">La Cabaña Siniestra</title>
+  </programme>
+</tv>
