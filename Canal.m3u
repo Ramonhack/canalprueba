@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="Peliculas",Space
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+https://3.ultimate2019.com/stream/hls/83
 #EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="Entretenimiento" ,TNT
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 https://3.ultimate2019.com/stream/hls/179
